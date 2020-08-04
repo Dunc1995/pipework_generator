@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/duncan/repos/pipework_generator/env/bin/python3",
+    "python.autoComplete.extraPaths": ["/usr/lib/freecad/lib"]
+}
